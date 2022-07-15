@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #151B2B;
+  margin: auto;
+  width: 100%;
+}
+
+header nav {
+  width: 1440px;
+}
+
+header nav .logo_qovery {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 2rem;
+}
+
+header nav .logo_qovery img {
+  width: 50px;
+  height: 50px;
+}
+
+header nav .logo_qovery a {
+  color: #A8A8C1;
+  text-decoration: none;
+}
+
+header nav .qoveryh1 {
+  left: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #FFFFFF;
+  padding-bottom: 2rem;
+}
+
+header nav .qoveryh1 h1 {
+  font-size: xxx-large;
+  margin: 2rem 0 0 5rem;
+}
+
+header nav .qoveryh1 img {
+  width: 90px;
+  height: 30px;
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+header nav .nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header nav .nav .qoveryh2 {
+  width: 30.5rem;
+  margin: 1rem 5rem 0 5rem;
+}
+
+header nav .nav .qoveryh2 h2 {
+  color: #F9F9FD;
+  padding-bottom: 2rem;
+}
+
+header nav .nav .qoveryh2 p {
+  color: #FFFFFF;
+}
+
+header nav .nav .qoveryh2 img {
+  padding-top: 2rem;
+}
+
+header nav .nav .qoveryh2 .gihub {
+  background: #454658;
+  border-radius: 3px;
+  padding: 9px 16px;
+  margin-right: 1rem;
+}
+
+header nav .nav .qoveryh2 .gihub a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+header nav .nav .qoveryh2 .gihub a .espace {
+  padding-right: 0.5rem;
+}
+
+header nav .nav .qoveryh2 .discord {
+  padding: 9px 16px;
+  background: #6578C0;
+  border-radius: 3px;
+}
+
+header nav .nav .qoveryh2 .discord a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+header nav .nav .qoveryh2 .discord a .espace {
+  padding-right: 0.5rem;
+}
+
+header nav .nav #3phases {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+header nav .nav #3phases img {
+  padding-left: 20rem;
+  margin: -13rem 0 6rem 0;
+}
+
+main .main {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+main article h2 {
+  margin-bottom: 1rem;
+}
+
+main article p {
+  margin-bottom: 3rem;
+}
+
+main .encadrement {
+  position: relative;
+  margin: 0 auto;
+  width: 1600px;
+  height: 800px;
+  background-color: #FFFFFF;
+  border: 3px white solid;
+  -webkit-box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+/*# sourceMappingURL=styles.css.map */
